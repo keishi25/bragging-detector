@@ -1,0 +1,6 @@
+初回時に行ったこと
+１．node install
+２．npm install
+（package.jsonに記載されたパッケージが一括でインストールされる）
+３．npm run dev
+(ローカル環境でアプリ起動）
